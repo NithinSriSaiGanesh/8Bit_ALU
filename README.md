@@ -36,8 +36,8 @@ The ALU supports the following operations:
 
 ## 📂 Project Files
 
-* **alu.sv** → ALU Design Module
-* **alu_tb.sv** → Testbench for Functional Verification
+* **alu.v** → ALU Design Module
+* **alu_tb.v** → Testbench for Functional Verification
 
 ---
 
