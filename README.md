@@ -71,17 +71,21 @@ All arithmetic and logical operations were successfully verified through behavio
 
 ### RTL Design
 
+<img width="1920" height="1020" alt="alucode" src="https://github.com/user-attachments/assets/5e72e39b-ce43-4416-9f8c-d3b246352adc" />
 
 
 ### RTL Schematic
+<img width="1920" height="1020" alt="design" src="https://github.com/user-attachments/assets/380f5577-5a29-4070-8903-bfd85f1504db" />
 
 
 
 ### Testbench
 
+<img width="1920" height="991" alt="testbench" src="https://github.com/user-attachments/assets/e51d1b61-8d87-41c9-94b4-6b115430d3a2" />
 
 
 ### Simulation Waveform
+<img width="1920" height="1020" alt="waveform" src="https://github.com/user-attachments/assets/479e58a3-85ca-4218-b548-282727287978" />
 
 
 
